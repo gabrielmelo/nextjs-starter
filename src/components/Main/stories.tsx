@@ -9,6 +9,6 @@ export default {
 
 export const Basic: Story = (args) => <Main {...args} />
 Basic.args = {
-	title: 'Boilerplate',
+	title: 'NextJS Styled Starter',
 	description: 'TypeScript, NextJS e Styled Components'
 }

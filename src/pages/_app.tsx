@@ -6,10 +6,10 @@ function App({ Component, pageProps }: AppProps) {
 	return (
 		<>
 			<Head>
-				<title>Boilerplate</title>
+				<title>NextJS Styled Starter</title>
 				<meta
 					name="description"
-					content="A simple project starter to work with TS, React, NextJS and Styled Components"
+					content="A simple project starter to work with ReactJS, NextJS, TypeScript and Styled Components"
 				/>
 			</Head>
 			<GlobalStyle />
