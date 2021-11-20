@@ -2,7 +2,7 @@
 
 exports[`<Main /> should render the heading 1`] = `
 .c0 {
-  background-color: #06092b;
+  background-color: #979fee;
   color: #fff;
   padding: 3rem;
   display: -webkit-box;
@@ -39,14 +39,14 @@ exports[`<Main /> should render the heading 1`] = `
   class="c0"
 >
   <img
-    alt="Image de um átomo e React Avançado"
+    alt="Image de um átomo e React Avançad escrito ao lado."
     class="c1"
     src="/img/logo.svg"
   />
   <h1
     class="c2"
   >
-    Boilerplate
+    NextJS Styled Starter
   </h1>
   <h2
     class="c3"
